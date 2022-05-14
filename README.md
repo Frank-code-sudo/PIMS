@@ -1,3 +1,4 @@
+Hi there!
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/bcgov/pims/issues)
 ![API (.Net Core)](<https://github.com/bcgov/PIMS/workflows/API%20(.NET%20Core)/badge.svg?branch=dev>)
